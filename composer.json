@@ -1,5 +1,5 @@
 {
-  "name": "swoft/rpc",
+  "name": "swoft-fork/rpc",
   "type": "library",
   "version": "v2.0.11",
   "keywords": [
@@ -9,10 +9,10 @@
     "rpc"
   ],
   "description": "swoft rpc protocol component",
-  "homepage": "https://github.com/swoft-cloud/swoft-rpc",
+  "homepage": "https://github.com/sky-up/swoft-rpc",
   "license": "Apache-2.0",
   "require": {
-    "swoft/stdlib": "~2.0.0"
+    "swoft-fork/stdlib": "~2.0.0"
   },
   "autoload": {
     "psr-4": {
